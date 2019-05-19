@@ -1,0 +1,52 @@
+@media only screen and (max-width: 500px)
+{
+	.dev
+	{
+		display: none;
+	}
+	.logo
+	{
+		width: 40%;
+	}
+	.title
+	{
+		width: 60%;
+	}
+	.header
+	{
+		height: 8%;
+	}
+	.contain
+	{
+		height: 88%;
+	}
+	.input
+	{
+		width: 70%;
+		height: 70%;
+	}
+	.title p
+	{
+		font-size: 20px;
+	}
+	.intro h3
+	{
+		font-size: 17px;
+	}
+	.intro ol
+	{
+		font-size: 12px;
+	}
+	.footer p,a
+	{
+		font-size: 10px;
+		/*font-family: serif;*/
+	}
+	.footer a
+	{
+		width: 20px;
+		padding: 2px;
+		margin: 0 2px;
+	}
+	/*result */
+}

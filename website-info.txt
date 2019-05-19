@@ -1,0 +1,17 @@
+--------------------------------------------------------
+
+freenom:-
+------------------
+ id = chinmayabehera866@gmail.com
+ pass = Chinmaya@123
+ 
+infintyfree :-
+------------------
+websitr-  id = chinmayabehera866@gmail.com
+-------   pass = Chinmaya@123
+ user -   user = epiz_23885096
+--------  pass = 2JzuiQqHTdo7
+ ftp-     hostname = ftpupload.net
+-------   pass = 2JzuiQqHTdo7
+
+-------------------------------------------------------
